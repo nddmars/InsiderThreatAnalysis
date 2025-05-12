@@ -22,6 +22,6 @@ A toolkit to identify and score potential malicious behavior by developers using
 
 ## 📦 Installation  
 ```bash
-git clone https://github.com/YourUsername/InsiderThreatAnalysis.git  
+git clone https://github.com/nddmars/InsiderThreatAnalysis.git  
 cd InsiderThreatAnalysis  
 pip install -r requirements.txt  # Python dependencies
