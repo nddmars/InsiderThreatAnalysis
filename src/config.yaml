@@ -1,0 +1,13 @@
+# Required
+git_repo: "."
+
+# Optional integrations
+slack_webhook: ""
+jira_api_key: ""
+
+# Thresholds
+risk_threshold: 50
+work_hours:
+  start: 9
+  end: 17
+timezone: "UTC"
